@@ -17,6 +17,6 @@
 - **[rsscounter](https://github.com/JustKirill1/rsscounter)** — инструмент для упрощенного управления ресурсами в RoK использующий OCR
 
 📫 **Связь со мной:**  
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/juuski)
+[![Telegram]([https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png))](https://t.me/juuski)
 
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=JustKirill1&show_icons=true&theme=radical)
