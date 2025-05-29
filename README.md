@@ -15,7 +15,8 @@
 - **[PostgreSQL Backup Script](https://github.com/JustKirill1/backup_script)** — скрипт предназначен для создания резервных копий базы данных PostgreSQL с ротацией старых резервных копий
 - **[Network Setup](https://github.com/JustKirill1/ithub_network_setup)** - скрипт для изменения IP адреса на целевом интерфейсе
 - **[rsscounter](https://github.com/JustKirill1/rsscounter)** — инструмент для упрощенного управления ресурсами в RoK использующий OCR
-- **[Wordle Decoder](https://github.com/JustKirill1/wordle-decoder)** - инструмент для декодирования загаданного слова [Wordle](https://wordle.belousov.one/) из ссылки 
+- **[Wordle Decoder](https://github.com/JustKirill1/wordle-decoder)** - инструмент для декодирования загаданного слова [Wordle](https://wordle.belousov.one/) из ссылки
+
 📫 **Связь со мной:**  
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/juuski)
 
